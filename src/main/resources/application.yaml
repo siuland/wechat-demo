@@ -37,7 +37,7 @@ wx:
       http-proxy-username:
       key-prefix: 'wx'
       redis:
-        host: 127.0.0.1
+        host: 118.178.252.244
         port: 6379
       type: Jedis
     secret: 6c4eda1d104fc370fd4b3778c4912a1f
