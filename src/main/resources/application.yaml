@@ -42,3 +42,12 @@ wx:
       type: Jedis
     secret: 6c4eda1d104fc370fd4b3778c4912a1f
     token: hengtian33
+deepseek:
+  api:
+    key: sk-98e68a983e624aab8fd8c487c4d7ec9f
+    base-url: https://api.deepseek.com/v1
+    chat-endpoint: /chat/completions
+    timeout: 5000
+    max-retries: 3
+    model: deepseek-chat
+    temperature: 0.7
